@@ -1,0 +1,1 @@
+screen.blit(terrain_surface, (2.5, 2.5))
