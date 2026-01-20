@@ -1,2 +1,7 @@
 # ant_colony
-THE ant colony project
+
+
+        This project is a 2D ant colony simulator where the user can generate a randomized world using a custom or randomly generated seed. The environment includes terrain such as water and rocks, as well as configurable food clusters. The simulation models ant foraging behaviour using pheromone trails for navigation (finding food and returning to the nest). The user can place the colony spawn point and watch ants explore, collect food, and adapt their routes over time. An optional “spider mode” adds hostile predators that hunt ants; ants can also defend themselves by swarming the spider when enough are nearby.This project is a 2D ant colony simulator where the user can generate a randomized world using a custom or randomly generated seed. The environment includes terrain such as water and rocks, as well as configurable food clusters. The simulation models ant foraging behaviour using pheromone trails for navigation (finding food and returning to the nest). The user can place the colony spawn point and watch ants explore, collect food, and adapt their routes over time. An optional “spider mode” adds hostile predators that hunt ants; ants can also defend themselves by swarming the spider when enough are nearby.
+        Skills: Python (Programming Language) · algorithms · Object-Oriented Programming (OOP) · Debugging · Computer Simulations · Artificial Intelligence (AI) · pathfinding · procedural generationSkills: Python (Programming Language) · algorithms · Object-Oriented Programming (OOP) · Debugging · Computer Simulations · Artificial Intelligence (AI) · pathfinding · procedural generation
+
+
