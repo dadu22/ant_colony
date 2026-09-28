@@ -9,3 +9,7 @@ pygame – game loop, rendering, input handling
 numpy – numerical operations and array handling
 
 noise – Perlin/Simplex noise for procedural map generation
+
+Starting screen:
+<img width="1597" height="933" alt="image" src="https://github.com/user-attachments/assets/aa979a30-f122-430f-b890-569b69c02745" />
+
