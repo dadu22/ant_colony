@@ -13,3 +13,8 @@ noise – Perlin/Simplex noise for procedural map generation
 Starting screen:
 <img width="1597" height="933" alt="image" src="https://github.com/user-attachments/assets/aa979a30-f122-430f-b890-569b69c02745" />
 
+Setup screen:
+<img width="1598" height="934" alt="image" src="https://github.com/user-attachments/assets/c81fd50b-49be-4190-83a0-7da7d90cf1a8" />
+
+Simulation:
+<img width="1593" height="932" alt="image" src="https://github.com/user-attachments/assets/1bfb56dc-2c65-41ae-9c07-ea74bc8d7a2f" />
